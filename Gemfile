@@ -12,6 +12,7 @@ gem 'sidekiq', '~> 7.2', '>= 7.2.4'
 gem 'sidekiq-scheduler', '~> 5.0', '>= 5.0.3'
 
 gem 'guard'
+gem 'factory_bot_rails'
 gem 'guard-livereload', require: false
 
 
